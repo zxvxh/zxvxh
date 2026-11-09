@@ -9,3 +9,9 @@
 - **후속 시험** — 저조도 전차 사진의 밝기와 흐림 정도를 바꿔 두 버전에 다시 입력하는 시험안을 제시했습니다. 담당자가 판단 근거를 확인할 수 있도록 시험 문서에서 관련 문단과 쪽 번호를 찾아 PDF 검토 보고서로 내보내는 흐름을 구성했습니다.
 
 [전체 포트폴리오](../../README.md)
+
+## 발표·수상 현장
+
+| 신규 오답 사례 발표 | 최우수상 수상 |
+| --- | --- |
+| <a href="assets/presentation.jpg"><img src="assets/presentation.jpg" alt="같은 사진을 전차와 민간 차량으로 다르게 판정한 사례 발표" width="300"></a> | <a href="assets/team-award.jpg"><img src="assets/team-award.jpg" alt="최우수상을 받은 팀원들" width="230"></a> |
