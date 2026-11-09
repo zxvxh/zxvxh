@@ -22,7 +22,7 @@ Motor Control · Robotics · Embedded Systems
 | 프로그램 | 프로젝트와 역할 | 결과 |
 | --- | --- | --- |
 | 모두의 창업 일반트랙 | [SeatFlow 프로젝트 포트폴리오](projects/SeatFlow/README.md) · 대표 | 1라운드 통과 · 활동자금 200만 원 확보 |
-| 대한전기학회 추계학술대회 | 학부연구생 · PMSM 전류제어 구현 및 모터 구동 시험 주도 | 실측한 3상 전류 파형을 바탕으로 학술대회 논문 공동 작성 |
+| [대한전기학회 추계학술대회 논문 (PDF)](projects/E-SynC_학부생연구프로그램_성과발표회/assets/kiee-2026-motor-control.pdf) | 학부연구생 · PMSM 전류제어 구현 및 모터 구동 시험 주도 | 실측한 3상 전류 파형을 바탕으로 학술대회 논문 공동 작성 |
 | [SK하이닉스 AI 해커톤](projects/SK하이닉스_AI_해커톤/README.md) | 참여 | 2차 예선 통과 |
 
 ## 대외활동
