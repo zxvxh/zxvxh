@@ -4,7 +4,7 @@ SeatFlow는 도서관이나 스터디카페에서 빈자리를 휴대폰으로 �
 
 **대표 · 김지호**
 
-[학생 화면 체험](https://seatflow.site.aiapp.help/student) · [관리자 화면 체험](https://seatflow.site.aiapp.help/experience)
+[SeatFlow 웹사이트](https://seatflow.site.aiapp.help/) · [학생 화면 체험](https://seatflow.site.aiapp.help/student) · [관리자 화면 체험](https://seatflow.site.aiapp.help/experience)
 
 현재 체험 화면은 예시 좌석 데이터를 사용합니다.
 
