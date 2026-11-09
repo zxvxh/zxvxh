@@ -17,3 +17,11 @@
 <a href="assets/presentation.jpg"><img src="assets/presentation.jpg" alt="팀 전우의 프로젝트 발표" width="300"></a>
 
 <a href="assets/award.jpg"><img src="assets/award.jpg" alt="팀 전우 장려상 수상" width="300"></a>
+
+## 발표 장면
+
+<p>
+<a href="assets/presentation-brand.jpg"><img src="assets/presentation-brand.jpg" alt="가상 브랜드 소개" width="220"></a>
+<a href="assets/presentation-experience.jpg"><img src="assets/presentation-experience.jpg" alt="진로 활동 소개" width="220"></a>
+<a href="assets/presentation-robot.jpg"><img src="assets/presentation-robot.jpg" alt="웨어러블 로봇 기획 발표" width="220"></a>
+</p>

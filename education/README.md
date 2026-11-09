@@ -53,4 +53,15 @@ SW·AI 창업 교육 프로그램에 참여했습니다. 현장 안내에 표기
 
 <a href="images/certificates.jpg"><img src="images/certificates.jpg" alt="수료증" width="230"></a>
 
+### 세부 어학연수 · 수업과 현지 생활
+
+<p>
+<a href="images/cebu-class.jpg"><img src="images/cebu-class.jpg" alt="영어 수업 참가자들과 함께" width="240"></a>
+<a href="images/cebu-ferry.jpg"><img src="images/cebu-ferry.jpg" alt="연수 참가자들과 현지 이동" width="240"></a>
+</p>
+<p>
+<a href="images/cebu-campus.jpg"><img src="images/cebu-campus.jpg" alt="연수 캠퍼스 풍경" width="180"></a>
+<a href="images/cebu-evening.jpg"><img src="images/cebu-evening.jpg" alt="세부 현지 생활" width="180"></a>
+</p>
+
 [전체 포트폴리오](../README.md)
