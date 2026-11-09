@@ -9,7 +9,7 @@
 | 프로젝트 | 직접 한 일과 결과 |
 | --- | --- |
 | [AI 재검증 Agent](https://github.com/zxvxh/zxvxh/blob/main/projects/방산AI_업데이트_오류를_찾는_AI_재검증_Agent/README.md) | 팀장으로 모델 재검증 에이전트 제작 · 새 오류 157건 발견 · 방산 AI 최우수상 |
-| [PMSM 전류제어](https://github.com/zxvxh/zxvxh/blob/main/projects/PMSM_모터_구동과_전류제어_실험/README.md) | PWM 극성 수정으로 모터 구동, d축 0.1 A 추종 확인 · E-SynC! 최우수상 |
+| [PMSM 전류제어](https://github.com/zxvxh/zxvxh/blob/main/projects/PMSM_모터_구동과_전류제어_실험/README.md) | PWM 극성 수정으로 모터 구동, 정렬·구동 시 전류 파형 검증 · E-SynC! 최우수상 |
 | [모터 전류제어 학습법](https://github.com/zxvxh/zxvxh/blob/main/projects/AI와_실험으로_배운_모터_전류제어/README.md) | AI의 답변을 실험으로 검증한 학습 과정 · 전북대 AI 학습 공모전 입상 |
 | [SeatFlow](https://github.com/zxvxh/zxvxh/blob/main/projects/SeatFlow_도서관_좌석관리_웹/README.md) | 학생·운영자용 63석 웹 시뮬레이션 제작, 청년벤처클럽 최우수상 |
 | [METAmobility 자율주행](https://github.com/zxvxh/zxvxh/blob/main/projects/METAmobility_ROS2_자율주행_경진대회/README.md) | 카메라·초음파를 이용한 ROS 2 실차 시험 · 장려상 |
