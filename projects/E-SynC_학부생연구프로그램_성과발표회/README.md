@@ -21,4 +21,10 @@ DC 링크 40 V, 스위칭 주파수 10 kHz에서 정렬과 구동을 나눠 측�
 
 [논문 원문 (PDF) · PLECS 시뮬레이션과 STM32를 활용한 모터 제어 시스템 구현](assets/kiee-2026-motor-control.pdf)
 
+## 학부연구 현장 사진
+
+| 대한전기학회 추계학술대회 · 연구 포스터 | E-SynC! 학부생연구프로그램 성과발표회 · 최우수상 |
+| --- | --- |
+| <a href="assets/kiee-poster.jpg"><img src="assets/kiee-poster.jpg" alt="대한전기학회 PS2-50 모터 제어 연구 포스터 앞에서" width="280"></a> | <a href="assets/esync-award.jpg"><img src="assets/esync-award.jpg" alt="E-SynC! 학부연구 성과발표회 최우수상 수상 현장" width="230"></a> |
+
 [전체 포트폴리오](../../README.md)
