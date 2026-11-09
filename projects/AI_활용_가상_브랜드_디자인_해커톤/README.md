@@ -14,6 +14,6 @@
 
 ## 해커톤 현장
 
-![팀 전우의 프로젝트 발표](assets/presentation.jpg)
+<a href="assets/presentation.jpg"><img src="assets/presentation.jpg" alt="팀 전우의 프로젝트 발표" width="300"></a>
 
-![팀 전우 장려상 수상](assets/award.jpg)
+<a href="assets/award.jpg"><img src="assets/award.jpg" alt="팀 전우 장려상 수상" width="300"></a>
