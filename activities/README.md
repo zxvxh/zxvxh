@@ -13,4 +13,15 @@
 | 센터 아동 학습 보조 | 김제시다함께돌봄센터 |
 | 팀장으로 중국인 학생 2명과 매주 스터디 진행 | 전북대학교 글로벌 스터디그룹 · 2026년 1학기 |
 
+## LG전자 하이엘지 토크콘서트
+
+**커리어편 · 2026.07.21 · 대학생 참가자**
+
+LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 이야기를 듣고, CLOi 로봇을 관람했습니다.
+
+<p>
+<a href="images/lg-participant.jpg"><img src="images/lg-participant.jpg" alt="LG전자 행사 참가 명찰" width="280"></a>
+<a href="images/lg-career-talk.jpg"><img src="images/lg-career-talk.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="280"></a>
+</p>
+
 [전체 포트폴리오](../README.md)

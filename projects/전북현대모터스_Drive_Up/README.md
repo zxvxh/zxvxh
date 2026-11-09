@@ -8,6 +8,17 @@
 
 *발표자료에 담은 디자인 시안과 사용 예시입니다.*
 
+## 팀 활동과 발표 현장
+
+팀 「전우」로 구단 현장을 방문하고, 나이티 드링크 파우치의 활용 방식과 구단·팬·지역사회에 기대되는 효과를 발표했습니다.
+
+<p>
+<a href="images/team-badges.jpg"><img src="images/team-badges.jpg" alt="Drive Up 팀 전우의 참가 명찰" width="280"></a>
+<a href="images/team-visit.jpg"><img src="images/team-visit.jpg" alt="전북현대모터스 구단 현장에서 함께한 팀 전우" width="280"></a>
+</p>
+
+<a href="images/presentation.jpg"><img src="images/presentation.jpg" alt="김지호 팀장의 Drive Up 상품기획 발표" width="600"></a>
+
 ## 팬의 불편에서 상품의 쓰임을 정했습니다
 
 현장 사진에는 음료와 소지품 때문에 두 손이 부족한 관람객, 직접 휴대 방식을 만들어 사용하는 팬의 모습이 담겨 있었습니다. 여기에 경기 후 버려지는 현수막과 일회용 컵 문제를 연결했습니다. 친환경 소재를 사용하는 것과 함께, 팬이 경기장과 일상에서 반복해서 쓸 이유를 만드는 것이 필요했습니다.

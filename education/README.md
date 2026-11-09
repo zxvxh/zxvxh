@@ -13,9 +13,21 @@
 | --- | --- |
 | 2025학년도 동계 JBNU 우수학생 글로벌Up 프로그램 | 필리핀 세부 어학연수 · Lapulapu Cebu International College · 2026.02.02–02.27 (4주) |
 | 전북대학교 글로벌 스터디그룹 | [대외활동 기록](../activities/README.md) |
+| 2026년 학생·기업 연계 SW·AI 창업캠프 | SW·AI 창업캠프 참여 |
 | 바이브 코딩 | 바이브 코딩 교육 참여 |
 | AI 활용 영상 제작 전문 교육 | 2026.01.05–01.06 교육 참여 · 01.09 경진대회 우수상 |
 | 학점은행제 | 경영전문학사 과정 이수 중 |
+
+## SW·AI 창업캠프
+
+**2026년 학생·기업 연계 SW·AI 창업캠프 참여**
+
+SW·AI 창업 교육 프로그램에 참여했습니다. 현장 안내에 표기된 국립군산대학교 행사명과 캠프 사진을 기록했습니다.
+
+<p>
+<a href="images/sw-ai-camp-sign.jpg"><img src="images/sw-ai-camp-sign.jpg" alt="2026년 학생·기업 연계 SW·AI 창업캠프 행사 안내" width="280"></a>
+<a href="images/sw-ai-camp-venue.jpg"><img src="images/sw-ai-camp-venue.jpg" alt="SW·AI 창업캠프 현장" width="280"></a>
+</p>
 
 ## 자격·시험
 
