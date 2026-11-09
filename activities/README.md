@@ -30,11 +30,22 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 
 **전북대학교 · 2026.07.01–08.28**
 
-전북 지역 고등학생에게 전기공학 전공을 소개하고 진학 상담을 진행했습니다.
+전북 지역 고등학교를 방문해 학생들에게 전기공학 전공을 소개하고 진학 상담을 진행했습니다. 교실과 강당에서 발표자료를 활용해 전기와 전자의 차이, 전기공학에서 배우는 내용을 설명했습니다. 전공 용어를 처음 접하는 고등학생도 이해할 수 있도록 회로·제어 등 학습 내용과 실제 활용 분야를 연결해 전달했습니다.
 
 <p>
 <a href="images/major-introduction-1.jpg"><img src="images/major-introduction-1.jpg" alt="교실에서 고등학생에게 전기공학 전공을 소개하는 모습" width="260"></a>
 <a href="images/major-introduction-2.jpg"><img src="images/major-introduction-2.jpg" alt="전공알리GO 전기공학 전공 소개 활동 현장" width="260"></a>
+</p>
+
+<a href="images/major-auditorium.jpg"><img src="images/major-auditorium.jpg" alt="강당에서 고등학생에게 전기공학 전공을 소개하는 현장" width="260"></a>
+
+## EBS 튜터링 · 고1 영어 멘토링
+
+고1 학생의 영어 수업을 진행하며 지문의 문장 구조, 어휘, 해석과 문법을 함께 설명했습니다. 태블릿에 지문을 띄워 관계사·접속사와 수식 관계를 표시하고, 문장을 의미 단위로 나누어 읽도록 지도했습니다. 단어 뜻만 옮기기보다 문장 사이의 연결과 글의 핵심 의미를 이해하도록 필기와 해설을 준비했습니다.
+
+<p>
+<a href="images/ebs-english-1.jpg"><img src="images/ebs-english-1.jpg" alt="문장 구조와 어휘를 표시한 고1 영어 수업 필기" width="220"></a>
+<a href="images/ebs-english-2.jpg"><img src="images/ebs-english-2.jpg" alt="문맥과 문법을 설명하는 영어 지문 해설" width="220"></a>
 </p>
 
 ## 대학창업페스티벌

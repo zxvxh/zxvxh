@@ -16,11 +16,21 @@
 
 ### 발표자료로 보는 연구 배경
 
-![에너지 변환과 PMSM 전류제어의 필요성](assets/research-background.jpg)
+[![에너지 변환과 PMSM 전류제어의 필요성](assets/research-background.jpg)](assets/research-background.jpg)
 
-![RT Box 없이 PLECS와 STM32로 구현하는 연구 목적](assets/implementation-background.jpg)
+[![RT Box 없이 PLECS와 STM32로 구현하는 연구 목적](assets/implementation-background.jpg)](assets/implementation-background.jpg)
 
 *팀 발표자료 PDF 2·3쪽 발췌. 장비 가격 표기는 발표 당시 자료에 포함된 참고 내용입니다.*
+
+## 선행연구 검토와 파형 분석
+
+PMSM 초기 회전자 위치 검출과 제어기 구현에 관한 선행논문을 읽고, 시뮬레이션 모델을 실제 제어 장치와 연결하는 방법을 검토했습니다. 논문에 제시된 제어 흐름과 파형을 살펴보며 현재 실험의 전류 센싱·위치 검출·PWM 출력 과정과 비교했습니다.
+
+실험에서는 오실로스코프로 PWM 신호를 측정해 채널별 전압 레벨, 주기와 듀티, 신호의 반전 관계를 확인했습니다. 측정 파형을 게이트 드라이버 입력 논리와 대조해 모터가 회전하지 않는 원인을 추적하고, 생성 코드의 PWM 극성을 수정한 뒤 구동을 다시 확인했습니다. 보드에 프로브를 연결해 실제 출력 신호를 측정하는 과정까지 직접 진행했습니다.
+
+| 선행논문 검토 | PWM 파형 측정·비교 | 제어 보드와 프로브 연결 |
+| --- | --- | --- |
+| <a href="assets/literature-review.jpg"><img src="assets/literature-review.jpg" alt="PMSM 위치 검출과 제어 구현 관련 선행논문 검토" width="180"></a> | <a href="assets/pwm-waveform.jpg"><img src="assets/pwm-waveform.jpg" alt="오실로스코프로 확인한 PWM 출력 파형" width="220"></a> | <a href="assets/board-measurement.jpg"><img src="assets/board-measurement.jpg" alt="제어 보드와 인버터에 측정 프로브를 연결한 실험" width="180"></a> |
 
 ## 설계와 측정
 
@@ -53,17 +63,17 @@ DC 링크 40 V, 스위칭 주파수 10 kHz에서 정렬과 구동을 나눠 측�
 
 ### 전체 제어 시스템
 
-![위치·전류 피드백 기반 PMSM 전류제어 구조](assets/system-overview.jpg)
+[![위치·전류 피드백 기반 PMSM 전류제어 구조](assets/system-overview.jpg)](assets/system-overview.jpg)
 
 ### 실험 환경과 측정 조건
 
-![모터·인버터·제어 보드와 계측 장비를 연결한 실험 구성](assets/experiment-setup.jpg)
+[![모터·인버터·제어 보드와 계측 장비를 연결한 실험 구성](assets/experiment-setup.jpg)](assets/experiment-setup.jpg)
 
 ### 전류 응답과 실제 측정 파형
 
-![전류제어 모드의 d축·q축 전류 응답](assets/dq-current-response.jpg)
+[![전류제어 모드의 d축·q축 전류 응답](assets/dq-current-response.jpg)](assets/dq-current-response.jpg)
 
-![오실로스코프로 측정한 구동 중 3상 전류 파형](assets/three-phase-current.jpg)
+[![오실로스코프로 측정한 구동 중 3상 전류 파형](assets/three-phase-current.jpg)](assets/three-phase-current.jpg)
 
 이미지 출처: 팀 학부연구 발표자료 「E-SynC PMSM 전류제어 2차 (2)(1)」의 PDF 5·8·14·16쪽. 전체 시스템, 실험 조건, d–q축 응답, 실제 3상 전류 측정 결과를 발췌했습니다.
 
