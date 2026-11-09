@@ -24,4 +24,10 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 <a href="images/lg-career-talk.jpg"><img src="images/lg-career-talk.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="280"></a>
 </p>
 
+## 대학창업페스티벌
+
+**2026 대학창업페스티벌 · 2026.09.17 · 참가**
+
+<a href="images/startup-festival.jpg"><img src="images/startup-festival.jpg" alt="2026 대학창업페스티벌 현장 참가 사진 · 김지호" width="380"></a>
+
 [전체 포트폴리오](../README.md)
