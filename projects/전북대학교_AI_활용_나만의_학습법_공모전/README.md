@@ -11,6 +11,6 @@ PMSM 구동 실험에서 모르는 점을 AI에 질문하고, 답변으로 얻�
 **전북대학교 교육혁신본부 · 2026.11.05 · 입상**  
 학습주제: 「AI에게 질문하고 실험으로 검증하는 모터 전류제어 학습법」
 
-<a href="assets/award-certificate.jpg"><img src="assets/award-certificate.jpg" alt="2026학년도 AI 활용 나만의 학습법 공모전 입상 증서 · 김지호" width="300"></a>
+<a href="assets/award-certificate.jpg"><img src="assets/thumbnails/award-certificate-9cdd4a.jpg" alt="2026학년도 AI 활용 나만의 학습법 공모전 입상 증서 · 김지호" width="260" height="173"></a>
 
 [관련 PMSM 학부연구](../E-SynC_학부생연구프로그램_성과발표회/README.md) · [전체 포트폴리오](../../README.md)

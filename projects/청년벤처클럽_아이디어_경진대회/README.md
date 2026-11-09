@@ -18,4 +18,4 @@
 
 [운영자로 체험하기](https://seatflow.site.aiapp.help/experience) — 63석 배치도에서 27번 좌석을 선택해 장시간 비움 표시와 이용 기록을 확인할 수 있습니다. 두 화면은 예시 데이터로 동작합니다.
 
-<a href="assets/seatflow-guide.jpg"><img src="assets/seatflow-guide.jpg" alt="SeatFlow 리플렛의 좌석 이용 절차와 운영자 화면" width="400"></a>
+<a href="assets/seatflow-guide.jpg"><img src="assets/thumbnails/seatflow-guide-b8ae00.jpg" alt="SeatFlow 리플렛의 좌석 이용 절차와 운영자 화면" width="260" height="173"></a>

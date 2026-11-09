@@ -19,12 +19,11 @@
 
 LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 이야기를 듣고, CLOi 로봇을 관람했습니다.
 
-<p>
-<a href="images/lg-participant.jpg"><img src="images/lg-participant.jpg" alt="LG전자 행사 참가 명찰" width="220"></a>
-<a href="images/lg-career-talk.jpg"><img src="images/lg-career-talk.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="220"></a>
-</p>
+| | |
+| --- | --- |
+| <a href="images/lg-participant.jpg"><img src="images/thumbnails/lg-participant-9d5f4b.jpg" alt="LG전자 행사 참가 명찰" width="260" height="173"></a> | <a href="images/lg-career-talk.jpg"><img src="images/thumbnails/lg-career-talk-1df6ff.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="260" height="173"></a> |
 
-<a href="images/lg-event-badge.jpg"><img src="images/lg-event-badge.jpg" alt="LG전자 하이엘지 토크콘서트 참가 명찰과 기념품" width="180"></a>
+<a href="images/lg-event-badge.jpg"><img src="images/thumbnails/lg-event-badge-694845.jpg" alt="LG전자 하이엘지 토크콘서트 참가 명찰과 기념품" width="260" height="173"></a>
 
 ## 전공알리GO 전공알림단
 
@@ -32,12 +31,11 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 
 전북 지역 고등학교를 방문해 학생들에게 전기공학 전공을 소개하고 진학 상담을 진행했습니다. 교실과 강당에서 발표자료를 활용해 전기와 전자의 차이, 전기공학에서 배우는 내용을 설명했습니다. 전공 용어를 처음 접하는 고등학생도 이해할 수 있도록 회로·제어 등 학습 내용과 실제 활용 분야를 연결해 전달했습니다.
 
-<p>
-<a href="images/major-introduction-1.jpg"><img src="images/major-introduction-1.jpg" alt="교실에서 고등학생에게 전기공학 전공을 소개하는 모습" width="260"></a>
-<a href="images/major-introduction-2.jpg"><img src="images/major-introduction-2.jpg" alt="전공알리GO 전기공학 전공 소개 활동 현장" width="260"></a>
-</p>
+| | |
+| --- | --- |
+| <a href="images/major-introduction-1.jpg"><img src="images/thumbnails/major-introduction-1-1bedcb.jpg" alt="교실에서 고등학생에게 전기공학 전공을 소개하는 모습" width="260" height="173"></a> | <a href="images/major-introduction-2.jpg"><img src="images/thumbnails/major-introduction-2-e18260.jpg" alt="전공알리GO 전기공학 전공 소개 활동 현장" width="260" height="173"></a> |
 
-<a href="images/major-auditorium.jpg"><img src="images/major-auditorium.jpg" alt="강당에서 고등학생에게 전기공학 전공을 소개하는 현장" width="260"></a>
+<a href="images/major-auditorium.jpg"><img src="images/thumbnails/major-auditorium-1f9cd4.jpg" alt="강당에서 고등학생에게 전기공학 전공을 소개하는 현장" width="260" height="173"></a>
 
 ## EBS 튜터링
 
@@ -45,10 +43,9 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 
 고1 학생의 영어 수업을 진행하며 지문의 문장 구조, 어휘, 해석과 문법을 함께 설명했습니다. 태블릿에 지문을 띄워 관계사·접속사와 수식 관계를 표시하고, 문장을 의미 단위로 나누어 읽도록 지도했습니다. 단어 뜻만 옮기기보다 문장 사이의 연결과 글의 핵심 의미를 이해하도록 필기와 해설을 준비했습니다.
 
-<p>
-<a href="images/ebs-english-1.jpg"><img src="images/ebs-english-1.jpg" alt="문장 구조와 어휘를 표시한 고1 영어 수업 필기" width="220"></a>
-<a href="images/ebs-english-2.jpg"><img src="images/ebs-english-2.jpg" alt="문맥과 문법을 설명하는 영어 지문 해설" width="220"></a>
-</p>
+| | |
+| --- | --- |
+| <a href="images/ebs-english-1.jpg"><img src="images/thumbnails/ebs-english-1-2402f9.jpg" alt="문장 구조와 어휘를 표시한 고1 영어 수업 필기" width="260" height="173"></a> | <a href="images/ebs-english-2.jpg"><img src="images/thumbnails/ebs-english-2-234ae2.jpg" alt="문맥과 문법을 설명하는 영어 지문 해설" width="260" height="173"></a> |
 
 ## 대학창업페스티벌
 
@@ -68,6 +65,6 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 
 이 경험을 통해 사업계획서를 볼 때 **문제의 크기뿐 아니라 고객이 사용할 이유, 비용을 지불할 주체, 실제 검증 근거와 운영 부담까지 확인해야 한다는 판단 기준**을 정리했습니다. 제 창업 아이디어를 점검할 때도 먼저 확인해야 할 질문들입니다.
 
-<a href="images/startup-festival-cropped.jpg"><img src="images/startup-festival-cropped.jpg" alt="2026 대학창업페스티벌 현장 참가 사진 · 김지호" width="300"></a>
+<a href="images/startup-festival-cropped.jpg"><img src="images/thumbnails/startup-festival-cropped-8e2c1e.jpg" alt="2026 대학창업페스티벌 현장 참가 사진 · 김지호" width="260" height="173"></a>
 
 [전체 포트폴리오](../README.md)

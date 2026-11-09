@@ -16,24 +16,26 @@
 
 실차 카메라 화면과 검출 결과를 보면서 코드를 수정하고 트랙에서 다시 시험했습니다. 아래 인식 화면에는 신호등 세 원과 `GREEN` 판정이 표시되어 있습니다.
 
-| 트랙과 개발 환경 | 자이카 연결·코드 수정 | 신호등 원 검출·GREEN 판정 |
-| --- | --- | --- |
-| <a href="assets/development-setup.jpg"><img src="assets/development-setup.jpg" alt="트랙 옆 노트북과 개발 환경" width="180"></a> | <a href="assets/vehicle-code-test.jpg"><img src="assets/vehicle-code-test.jpg" alt="자이카를 연결하고 현장에서 인식 코드를 수정하는 환경" width="180"></a> | <a href="assets/traffic-light-detection.jpg"><img src="assets/traffic-light-detection.jpg" alt="천장 조명이 있는 실내에서 신호등 세 원을 검출하고 GREEN을 표시한 화면" width="180"></a> |
+| | |
+| --- | --- |
+| <a href="assets/development-setup.jpg"><img src="assets/thumbnails/development-setup-74f2a6.jpg" alt="트랙 옆 노트북과 개발 환경" width="260" height="173"></a> | <a href="assets/vehicle-code-test.jpg"><img src="assets/thumbnails/vehicle-code-test-adf070.jpg" alt="자이카를 연결하고 현장에서 인식 코드를 수정하는 환경" width="260" height="173"></a> |
+| <a href="assets/traffic-light-detection.jpg"><img src="assets/thumbnails/traffic-light-detection-331c5d.jpg" alt="천장 조명이 있는 실내에서 신호등 세 원을 검출하고 GREEN을 표시한 화면" width="260" height="173"></a> |  |
 
 ## 대회 영상 · 57초 현장 브이로그
 
 영상에서 뽑은 대표 장면입니다. 사진을 누르면 원본 영상을 열 수 있습니다.
 
-| 라바콘 구간 센서 테스트 · 00:13 | 현장 코드 수정 · 00:23 | 트랙 주행 · 00:43 |
-| --- | --- | --- |
-| <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/vlog-preview-1.jpg" alt="라바콘 사이를 주행하는 자이카 · 영상 13초" width="180"></a> | <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/vlog-preview-2.jpg" alt="노트북으로 코드를 수정하는 현장 · 영상 23초" width="180"></a> | <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/vlog-preview-3.jpg" alt="트랙 위에서 주행 중인 자이카 · 영상 43초" width="180"></a> |
+| | |
+| --- | --- |
+| <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/thumbnails/vlog-preview-1-5f701f.jpg" alt="라바콘 사이를 주행하는 자이카 · 영상 13초" width="260" height="173"></a> | <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/thumbnails/vlog-preview-2-57eee2.jpg" alt="노트북으로 코드를 수정하는 현장 · 영상 23초" width="260" height="173"></a> |
+| <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/thumbnails/vlog-preview-3-b2d9b3.jpg" alt="트랙 위에서 주행 중인 자이카 · 영상 43초" width="260" height="173"></a> |  |
 
 [전체 영상 보기](https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4) · [영상 파일 다운로드](assets/competition-vlog.mp4?raw=true)
 
 ## 수상 및 현장 사진
 
-<a href="assets/award.jpg"><img src="assets/award.jpg" alt="장려상 수상 사진" width="300"></a>
-
-<a href="assets/event.jpg"><img src="assets/event.jpg" alt="대회 현장 안내" width="300"></a>
+| | |
+| --- | --- |
+| <a href="assets/award.jpg"><img src="assets/thumbnails/award-c148c7.jpg" alt="장려상 수상 사진" width="260" height="173"></a> | <a href="assets/event.jpg"><img src="assets/thumbnails/event-93e460.jpg" alt="대회 현장 안내" width="260" height="173"></a> |
 
 [전체 포트폴리오](../../README.md)

@@ -16,9 +16,9 @@
 
 ### 발표자료로 보는 연구 배경
 
-<a href="assets/research-background.jpg"><img src="assets/research-background.jpg" alt="에너지 변환과 PMSM 전류제어의 필요성" width="480"></a>
-
-<a href="assets/implementation-background.jpg"><img src="assets/implementation-background.jpg" alt="RT Box 없이 PLECS와 STM32로 구현하는 연구 목적" width="480"></a>
+| | |
+| --- | --- |
+| <a href="assets/research-background.jpg"><img src="assets/thumbnails/research-background-84808e.jpg" alt="에너지 변환과 PMSM 전류제어의 필요성" width="260" height="173"></a> | <a href="assets/implementation-background.jpg"><img src="assets/thumbnails/implementation-background-04fbf7.jpg" alt="RT Box 없이 PLECS와 STM32로 구현하는 연구 목적" width="260" height="173"></a> |
 
 *팀 발표자료 PDF 2·3쪽 발췌. 장비 가격 표기는 발표 당시 자료에 포함된 참고 내용입니다.*
 
@@ -37,9 +37,10 @@ PMSM 초기 회전자 위치 검출과 제어기 구현에 관한 선행논문�
 | 구현 수정 | 드라이버 입력 논리에 맞게 생성 코드의 PWM 극성 수정 |
 | 수정 후 동작 | 모터 회전 여부와 전류 응답을 다시 확인하고 측정 파형으로 기록 |
 
-| 선행논문 검토 | PWM 파형 측정·비교 | 제어 보드와 프로브 연결 |
-| --- | --- | --- |
-| <a href="assets/literature-review.jpg"><img src="assets/literature-review.jpg" alt="PMSM 위치 검출과 제어 구현 관련 선행논문 검토" width="180"></a> | <a href="assets/pwm-waveform.jpg"><img src="assets/pwm-waveform.jpg" alt="오실로스코프로 확인한 PWM 출력 파형" width="220"></a> | <a href="assets/board-measurement.jpg"><img src="assets/board-measurement.jpg" alt="제어 보드와 인버터에 측정 프로브를 연결한 실험" width="180"></a> |
+| | |
+| --- | --- |
+| <a href="assets/literature-review.jpg"><img src="assets/thumbnails/literature-review-6af328.jpg" alt="PMSM 위치 검출과 제어 구현 관련 선행논문 검토" width="260" height="173"></a> | <a href="assets/pwm-waveform.jpg"><img src="assets/thumbnails/pwm-waveform-ad478a.jpg" alt="오실로스코프로 확인한 PWM 출력 파형" width="260" height="173"></a> |
+| <a href="assets/board-measurement.jpg"><img src="assets/thumbnails/board-measurement-17b710.jpg" alt="제어 보드와 인버터에 측정 프로브를 연결한 실험" width="260" height="173"></a> |  |
 
 ## 설계와 측정
 
@@ -58,37 +59,37 @@ DC 링크 40 V, 스위칭 주파수 10 kHz에서 정렬과 구동을 나눠 측�
 
 ## 성과발표회 행사 안내
 
-<a href="assets/esync-event-banner.jpg"><img src="assets/esync-event-banner.jpg" alt="2026 학부생연구프로그램 성과발표회 행사 안내 · 2026년 10월 14일~21일" width="200"></a>
+<a href="assets/esync-event-banner.jpg"><img src="assets/thumbnails/esync-event-banner-b125a8.jpg" alt="2026 학부생연구프로그램 성과발표회 행사 안내 · 2026년 10월 14일~21일" width="260" height="173"></a>
 
 ## 학부연구 현장 사진
 
-| 대한전기학회 추계학술대회 · 연구 포스터 | E-SynC! 학부생연구프로그램 성과발표회 · 최우수상 |
+| | |
 | --- | --- |
-| <a href="assets/kiee-poster.jpg"><img src="assets/kiee-poster.jpg" alt="대한전기학회 PS2-50 모터 제어 연구 포스터 앞에서" width="280"></a> | <a href="assets/esync-award.jpg"><img src="assets/esync-award.jpg" alt="E-SynC! 학부연구 성과발표회 최우수상 수상 현장" width="230"></a> |
+| <a href="assets/kiee-poster.jpg"><img src="assets/thumbnails/kiee-poster-62e492.jpg" alt="대한전기학회 PS2-50 모터 제어 연구 포스터 앞에서" width="260" height="173"></a> | <a href="assets/esync-award.jpg"><img src="assets/thumbnails/esync-award-1c27d7.jpg" alt="E-SynC! 학부연구 성과발표회 최우수상 수상 현장" width="260" height="173"></a> |
 
 ## 성과발표회 발표와 연구자료
 
-<a href="assets/esync-poster-presentation.jpg"><img src="assets/esync-poster-presentation.jpg" alt="E-SynC! 성과발표회에서 모터 전류제어 포스터를 설명하는 김지호" width="380"></a>
+<a href="assets/esync-poster-presentation.jpg"><img src="assets/thumbnails/esync-poster-presentation-c2fc3c.jpg" alt="E-SynC! 성과발표회에서 모터 전류제어 포스터를 설명하는 김지호" width="260" height="173"></a>
 
 ### 전체 제어 시스템
 
-<a href="assets/system-overview.jpg"><img src="assets/system-overview.jpg" alt="위치·전류 피드백 기반 PMSM 전류제어 구조" width="480"></a>
+<a href="assets/system-overview.jpg"><img src="assets/thumbnails/system-overview-3fd31b.jpg" alt="위치·전류 피드백 기반 PMSM 전류제어 구조" width="260" height="173"></a>
 
 ### 실험 환경과 측정 조건
 
-<a href="assets/experiment-setup.jpg"><img src="assets/experiment-setup.jpg" alt="모터·인버터·제어 보드와 계측 장비를 연결한 실험 구성" width="480"></a>
+<a href="assets/experiment-setup.jpg"><img src="assets/thumbnails/experiment-setup-0058d8.jpg" alt="모터·인버터·제어 보드와 계측 장비를 연결한 실험 구성" width="260" height="173"></a>
 
 ### 전류 응답과 실제 측정 파형
 
-<a href="assets/dq-current-response.jpg"><img src="assets/dq-current-response.jpg" alt="전류제어 모드의 d축·q축 전류 응답" width="480"></a>
-
-<a href="assets/three-phase-current-original.jpg"><img src="assets/three-phase-current-original.jpg" alt="오실로스코프로 기록한 3상 전류 원본 파형" width="480"></a>
+| | |
+| --- | --- |
+| <a href="assets/dq-current-response.jpg"><img src="assets/thumbnails/dq-current-response-2919cd.jpg" alt="전류제어 모드의 d축·q축 전류 응답" width="260" height="173"></a> | <a href="assets/three-phase-current-original.jpg"><img src="assets/thumbnails/three-phase-current-original-0adea6.jpg" alt="오실로스코프로 기록한 3상 전류 원본 파형" width="260" height="173"></a> |
 
 세 채널의 전류가 주기적으로 변하고 서로 위상차를 갖는 모습을 확인했습니다. 같은 종류의 파형 사진은 대표 1장만 제시했습니다.
 
 ### 계측 화면에서 확인한 신호
 
-<a href="assets/scope-signal-review.jpg"><img src="assets/scope-signal-review.jpg" alt="전류 측정 신호와 오실로스코프 LPF 수학 채널을 함께 확인한 계측 화면" width="230"></a>
+<a href="assets/scope-signal-review.jpg"><img src="assets/thumbnails/scope-signal-review-822684.jpg" alt="전류 측정 신호와 오실로스코프 LPF 수학 채널을 함께 확인한 계측 화면" width="260" height="173"></a>
 
 원 신호와 오실로스코프의 LPF 수학 채널 표시를 함께 살펴보며 파형을 해석했습니다. 이 화면의 필터 표시는 계측기 기능이며, 제어 코드에 필터를 구현했다는 의미로 제시하지 않습니다.
 

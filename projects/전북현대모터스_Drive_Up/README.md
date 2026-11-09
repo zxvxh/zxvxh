@@ -4,30 +4,29 @@
 
 경기장에서 음료와 소지품을 함께 들기 어려운 팬의 불편을, 구단 폐현수막을 활용한 캐릭터 굿즈로 해결하고자 했습니다. 팀장으로 상품기획과 발표를 맡아 사용자 불편, 제품 구조, 제작 가능성, 판매 계획을 하나의 제안으로 정리했고 **전북현대모터스 Drive Up 우수상**을 받았습니다.
 
-[![컵홀더와 파우치로 사용하는 나이티 드링크 파우치 디자인 시안](images/product.jpg)](images/product.jpg)
+<a href="images/product.jpg"><img src="images/thumbnails/product-e58653.jpg" alt="컵홀더와 파우치로 사용하는 나이티 드링크 파우치 디자인 시안" width="260" height="173"></a>
 
 *발표자료에 담은 디자인 시안과 사용 예시입니다.*
 
 ## 우수상 수상
 
-<a href="images/award-certificate.jpg"><img src="images/award-certificate.jpg" alt="2026년 8월 14일 전북현대모터스FC Drive Up 우수상 상장 · 김지호" width="360"></a>
+<a href="images/award-certificate.jpg"><img src="images/thumbnails/award-certificate-3fc0b1.jpg" alt="2026년 8월 14일 전북현대모터스FC Drive Up 우수상 상장 · 김지호" width="260" height="173"></a>
 
 ## 팀 활동과 발표 현장
 
 팀 「전우」로 구단 현장을 방문하고, 나이티 드링크 파우치의 활용 방식과 구단·팬·지역사회에 기대되는 효과를 발표했습니다.
 
-<p>
-<a href="images/team-badges.jpg"><img src="images/team-badges.jpg" alt="Drive Up 팀 전우의 참가 명찰" width="280"></a>
-<a href="images/team-visit.jpg"><img src="images/team-visit.jpg" alt="전북현대모터스 구단 현장에서 함께한 팀 전우" width="280"></a>
-</p>
+| | |
+| --- | --- |
+| <a href="images/team-badges.jpg"><img src="images/thumbnails/team-badges-a80fd3.jpg" alt="Drive Up 팀 전우의 참가 명찰" width="260" height="173"></a> | <a href="images/team-visit.jpg"><img src="images/thumbnails/team-visit-f6437d.jpg" alt="전북현대모터스 구단 현장에서 함께한 팀 전우" width="260" height="173"></a> |
 
-<a href="images/presentation.jpg"><img src="images/presentation.jpg" alt="김지호 팀장의 Drive Up 상품기획 발표" width="600"></a>
+<a href="images/presentation.jpg"><img src="images/thumbnails/presentation-9d9c96.jpg" alt="김지호 팀장의 Drive Up 상품기획 발표" width="260" height="173"></a>
 
 ## 팬의 불편에서 상품의 쓰임을 정했습니다
 
 현장 사진에는 음료와 소지품 때문에 두 손이 부족한 관람객, 직접 휴대 방식을 만들어 사용하는 팬의 모습이 담겨 있었습니다. 여기에 경기 후 버려지는 현수막과 일회용 컵 문제를 연결했습니다. 친환경 소재를 사용하는 것과 함께, 팬이 경기장과 일상에서 반복해서 쓸 이유를 만드는 것이 필요했습니다.
 
-[![경기장에서 확인한 음료와 소지품 휴대 불편](images/fan-needs.jpg)](images/fan-needs.jpg)
+<a href="images/fan-needs.jpg"><img src="images/thumbnails/fan-needs-9a24d1.jpg" alt="경기장에서 확인한 음료와 소지품 휴대 불편" width="260" height="173"></a>
 
 발표자료의 팬 조사에서는 **컵홀더 사용 불편 경험 97.8%, 일상에서도 사용 가능할 경우 구매 의향 93%, 폐현수막 업사이클링 이야기가 구매에 긍정적 영향 88.4%**로 정리했습니다. 실용성·디자인·구단의 이야기를 함께 담는 방향으로 상품을 구체화했습니다.
 
@@ -43,7 +42,7 @@
 | 상단 130 × 하단 90 × 높이 100 mm | 휴대성과 수납을 고려한 제품 규격 구체화 |
 | 구단 캐릭터 나이티와 폐현수막 안감 | 구단의 정체성과 자원 재활용 이야기를 상품에 반영 |
 
-[![지퍼 전환 구조와 포토카드 포켓 등 상품 차별점](images/features.jpg)](images/features.jpg)
+<a href="images/features.jpg"><img src="images/thumbnails/features-5f1774.jpg" alt="지퍼 전환 구조와 포토카드 포켓 등 상품 차별점" width="260" height="173"></a>
 
 타 구단의 텀블러·멀티 파우치와 가격, 대상 고객, 활용 방식을 비교했습니다. 경기장에서 음료를 휴대하고 경기 후에는 작은 소지품을 담을 수 있도록 쓰임을 넓혔습니다.
 

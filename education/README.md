@@ -24,10 +24,9 @@
 
 SW·AI 창업 교육 프로그램에 참여했습니다. 현장 안내에 표기된 국립군산대학교 행사명과 캠프 사진을 기록했습니다.
 
-<p>
-<a href="images/sw-ai-camp-sign.jpg"><img src="images/sw-ai-camp-sign.jpg" alt="2026년 학생·기업 연계 SW·AI 창업캠프 행사 안내" width="280"></a>
-<a href="images/sw-ai-camp-venue.jpg"><img src="images/sw-ai-camp-venue.jpg" alt="SW·AI 창업캠프 현장" width="280"></a>
-</p>
+| | |
+| --- | --- |
+| <a href="images/sw-ai-camp-sign.jpg"><img src="images/thumbnails/sw-ai-camp-sign-a5e583.jpg" alt="2026년 학생·기업 연계 SW·AI 창업캠프 행사 안내" width="260" height="173"></a> | <a href="images/sw-ai-camp-venue.jpg"><img src="images/thumbnails/sw-ai-camp-venue-7c7f4d.jpg" alt="SW·AI 창업캠프 현장" width="260" height="173"></a> |
 
 ## 자격·시험
 
@@ -47,21 +46,16 @@ SW·AI 창업 교육 프로그램에 참여했습니다. 현장 안내에 표기
 
 ### 세부 국제어학연수 사진
 
-<a href="images/ceremony.jpg"><img src="images/ceremony.jpg" alt="세부 어학연수 수료식" width="300"></a>
-
-<a href="images/students.jpg"><img src="images/students.jpg" alt="연수 참가자들과 함께" width="300"></a>
-
-<a href="images/certificates.jpg"><img src="images/certificates.jpg" alt="수료증" width="230"></a>
+| | |
+| --- | --- |
+| <a href="images/ceremony.jpg"><img src="images/thumbnails/ceremony-cd7c17.jpg" alt="세부 어학연수 수료식" width="260" height="173"></a> | <a href="images/students.jpg"><img src="images/thumbnails/students-e3a911.jpg" alt="연수 참가자들과 함께" width="260" height="173"></a> |
+| <a href="images/certificates.jpg"><img src="images/thumbnails/certificates-048e7f.jpg" alt="수료증" width="260" height="173"></a> |  |
 
 ### 세부 어학연수 · 수업과 현지 생활
 
-<p>
-<a href="images/cebu-class.jpg"><img src="images/cebu-class.jpg" alt="영어 수업 참가자들과 함께" width="240"></a>
-<a href="images/cebu-ferry.jpg"><img src="images/cebu-ferry.jpg" alt="연수 참가자들과 현지 이동" width="240"></a>
-</p>
-<p>
-<a href="images/cebu-campus.jpg"><img src="images/cebu-campus.jpg" alt="연수 캠퍼스 풍경" width="180"></a>
-<a href="images/cebu-evening.jpg"><img src="images/cebu-evening.jpg" alt="세부 현지 생활" width="180"></a>
-</p>
+| | |
+| --- | --- |
+| <a href="images/cebu-class.jpg"><img src="images/thumbnails/cebu-class-9289a4.jpg" alt="영어 수업 참가자들과 함께" width="260" height="173"></a> | <a href="images/cebu-ferry.jpg"><img src="images/thumbnails/cebu-ferry-53f387.jpg" alt="연수 참가자들과 현지 이동" width="260" height="173"></a> |
+| <a href="images/cebu-campus.jpg"><img src="images/thumbnails/cebu-campus-ac9238.jpg" alt="연수 캠퍼스 풍경" width="260" height="173"></a> | <a href="images/cebu-evening.jpg"><img src="images/thumbnails/cebu-evening-2e13af.jpg" alt="세부 현지 생활" width="260" height="173"></a> |
 
 [전체 포트폴리오](../README.md)

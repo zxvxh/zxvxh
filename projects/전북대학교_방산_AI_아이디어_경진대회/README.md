@@ -12,6 +12,6 @@
 
 ## 발표·수상 현장
 
-| 신규 오답 사례 발표 | 최우수상 수상 |
+| | |
 | --- | --- |
-| <a href="assets/presentation.jpg"><img src="assets/presentation.jpg" alt="같은 사진을 전차와 민간 차량으로 다르게 판정한 사례 발표" width="300"></a> | <a href="assets/team-award.jpg"><img src="assets/team-award.jpg" alt="최우수상을 받은 팀원들" width="230"></a> |
+| <a href="assets/presentation.jpg"><img src="assets/thumbnails/presentation-30b8d5.jpg" alt="같은 사진을 전차와 민간 차량으로 다르게 판정한 사례 발표" width="260" height="173"></a> | <a href="assets/team-award.jpg"><img src="assets/thumbnails/team-award-ddc0d4.jpg" alt="최우수상을 받은 팀원들" width="260" height="173"></a> |
