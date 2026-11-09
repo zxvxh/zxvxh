@@ -19,8 +19,7 @@
 | | |
 | --- | --- |
 | <a href="images/team-badges.jpg"><img src="images/thumbnails/team-badges-a80fd3.jpg" alt="Drive Up 팀 전우의 참가 명찰" width="260" height="173"></a> | <a href="images/team-visit.jpg"><img src="images/thumbnails/team-visit-f6437d.jpg" alt="전북현대모터스 구단 현장에서 함께한 팀 전우" width="260" height="173"></a> |
-
-<a href="images/presentation.jpg"><img src="images/thumbnails/presentation-9d9c96.jpg" alt="김지호 팀장의 Drive Up 상품기획 발표" width="260" height="173"></a>
+| <a href="images/presentation.jpg"><img src="images/thumbnails/presentation-9d9c96.jpg" alt="김지호 팀장의 Drive Up 상품기획 발표" width="260" height="173"></a> |  |
 
 ## 팬의 불편에서 상품의 쓰임을 정했습니다
 

@@ -1,9 +1,13 @@
 # 대외활동
 
+[LG전자](#lg전자-하이엘지-토크콘서트) · [전공알리GO](#전공알리go-전공알림단) · [EBS 튜터링](#ebs-튜터링) · [대학창업페스티벌](#대학창업페스티벌)
+
+사진을 누르면 원본을 크게 볼 수 있습니다.
+
 | 활동 내용 | 기관·활동 |
 | --- | --- |
 | 초등학생 대상 교통안전 교육 진행 · 장학금 수혜 | 한국도로공사 전북본부 배움잇는 인턴십 · 2026년 여름방학 |
-| 대학생 참가자 | LG전자 하이엘지 토크콘서트 커리어편 · 2026.07.21 |
+| 대학생 참가자 | [LG전자 하이엘지 토크콘서트 커리어편 · 2026.07.21](#lg전자-하이엘지-토크콘서트) |
 | 창업팀 발표·질의응답 기록 및 사업성 분석 | [창업중심대학 대학창업페스티벌 · 2026.09.17](#대학창업페스티벌) |
 | 전북대학교를 통해 학술대회 참관 · 제주국제컨벤션센터 | 2026 한국자동차공학회 춘계학술대회 · 2026.05.20–23 |
 | 전북 지역 고등학생 대상 전기공학 전공 소개 및 진학 상담 | [전북대학교 전공알리GO 전공알림단 · 2026.07.01–08.28](#전공알리go-전공알림단) |
@@ -22,8 +26,7 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 | | |
 | --- | --- |
 | <a href="images/lg-participant.jpg"><img src="images/thumbnails/lg-participant-9d5f4b.jpg" alt="LG전자 행사 참가 명찰" width="260" height="173"></a> | <a href="images/lg-career-talk.jpg"><img src="images/thumbnails/lg-career-talk-1df6ff.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="260" height="173"></a> |
-
-<a href="images/lg-event-badge.jpg"><img src="images/thumbnails/lg-event-badge-694845.jpg" alt="LG전자 하이엘지 토크콘서트 참가 명찰과 기념품" width="260" height="173"></a>
+| <a href="images/lg-event-badge.jpg"><img src="images/thumbnails/lg-event-badge-694845.jpg" alt="LG전자 하이엘지 토크콘서트 참가 명찰과 기념품" width="260" height="173"></a> |  |
 
 ## 전공알리GO 전공알림단
 
@@ -34,8 +37,7 @@ LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 �
 | | |
 | --- | --- |
 | <a href="images/major-introduction-1.jpg"><img src="images/thumbnails/major-introduction-1-1bedcb.jpg" alt="교실에서 고등학생에게 전기공학 전공을 소개하는 모습" width="260" height="173"></a> | <a href="images/major-introduction-2.jpg"><img src="images/thumbnails/major-introduction-2-e18260.jpg" alt="전공알리GO 전기공학 전공 소개 활동 현장" width="260" height="173"></a> |
-
-<a href="images/major-auditorium.jpg"><img src="images/thumbnails/major-auditorium-1f9cd4.jpg" alt="강당에서 고등학생에게 전기공학 전공을 소개하는 현장" width="260" height="173"></a>
+| <a href="images/major-auditorium.jpg"><img src="images/thumbnails/major-auditorium-1f9cd4.jpg" alt="강당에서 고등학생에게 전기공학 전공을 소개하는 현장" width="260" height="173"></a> |  |
 
 ## EBS 튜터링
 

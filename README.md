@@ -4,7 +4,9 @@
 
 ### Motor Control · Robotics · Embedded Systems
 
-[프로젝트](projects/README.md) · [대외활동과 사진](activities/README.md) · [교육·연수와 사진](education/README.md)
+[대회·수상](#대회-및-수상-프로젝트) · [창업·연구](#창업연구해커톤) · [대외활동](#대외활동) · [교육·연수](#교육연수) · [자격·시험](#자격시험)
+
+[프로젝트 상세](projects/README.md) · [대외활동 상세·사진](activities/README.md) · [교육·연수 상세·사진](education/README.md)
 
 ## 대회 및 수상 프로젝트
 
