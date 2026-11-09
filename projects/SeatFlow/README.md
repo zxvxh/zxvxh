@@ -4,6 +4,8 @@ SeatFlow는 도서관이나 스터디카페에서 빈자리를 휴대폰으로 �
 
 **대표 · 김지호**
 
+<a href="assets/seatflow-brand.jpg"><img src="assets/seatflow-brand.jpg" alt="SeatFlow 스마트 좌석관리 시스템 브랜드 이미지" width="260"></a>
+
 [SeatFlow 웹사이트](https://seatflow.site.aiapp.help/) · [학생 화면 체험](https://seatflow.site.aiapp.help/student) · [관리자 화면 체험](https://seatflow.site.aiapp.help/experience)
 
 현재 체험 화면은 예시 좌석 데이터를 사용합니다.
@@ -12,12 +14,18 @@ SeatFlow는 도서관이나 스터디카페에서 빈자리를 휴대폰으로 �
 
 ## 모두의 창업 진행 현황
 
-좌석 센서 시제품 제작과 도입 비용을 중심으로 멘토링을 이어가고 있습니다.
+중소벤처기업부 「모두의 창업」에 참여해 좌석 센서 시제품 제작과 도입 비용을 중심으로 멘토링을 이어가고 있습니다.
 
 | 구분 | 진행 내용 |
 | --- | --- |
 | 사업화 모델 | 대학·스터디카페에 좌석 장치를 설치할 때의 설치비와 좌석당 이용료를 검토 중입니다. |
 | 시제품 제작 | 착석 여부를 감지해 웹에 표시하는 시제품을 만들기 위해 제작 업체들과 상담 중입니다. |
+
+### 모두의 창업 활동 사진
+
+| Meet-up 캠프 · 브랜드 구체화 | 모두의 창업 2차 출범식 현장 |
+| --- | --- |
+| <a href="assets/modoo-meetup.jpg"><img src="assets/modoo-meetup.jpg" alt="모두의 창업 Meet-up 캠프에서 SeatFlow 브랜드를 구체화하는 작업" width="230"></a> | <a href="assets/modoo-launch.jpg"><img src="assets/modoo-launch.jpg" alt="모두의 창업 2차 출범식 참가 현장" width="230"></a> |
 
 ## 창업 성과
 
