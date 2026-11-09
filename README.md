@@ -1,19 +1,39 @@
-# 포트폴리오
+# Jiho Kim Portfolio
 
-전북대학교에서 전기공학과 방위산업 융합전공을 공부하는 김지호입니다. 모터 제어와 로봇에 관심이 있고, 아이디어를 직접 만들어 시험하는 일을 좋아합니다.
+Jeonbuk National University · Electrical Engineering · Defense Industry Studies
 
-[수상 기록](https://github.com/zxvxh/zxvxh/blob/main/awards/README.md) · [교육·연수](https://github.com/zxvxh/zxvxh/blob/main/education/README.md) · [대외활동](https://github.com/zxvxh/zxvxh/blob/main/activities/README.md)
+Motor Control · Robotics · Embedded Systems
 
-## 대회 및 학부연구 프로젝트
+## 대회 및 수상 프로젝트
 
 | 대회·프로그램 | 작품과 역할 | 결과 |
 | --- | --- | --- |
-| [전북대학교 방산 AI 아이디어 경진대회](https://github.com/zxvxh/zxvxh/blob/main/projects/전북대학교_방산_AI_아이디어_경진대회/README.md) | AI 재검증 Agent를 기획·제작한 팀장 | 최우수상 |
-| [E-SynC! 학부생연구프로그램 성과발표회](https://github.com/zxvxh/zxvxh/blob/main/projects/E-SynC_학부생연구프로그램_성과발표회/README.md) | PMSM 전류제어 학부연구 프로젝트 · 팀장 | 최우수상 |
-| [전북대학교 AI 활용 나만의 학습법 공모전](https://github.com/zxvxh/zxvxh/blob/main/projects/전북대학교_AI_활용_나만의_학습법_공모전/README.md) | AI의 답변을 모터 전류 측정으로 검증한 학습 과정 | 입상 |
-| [제9회 청년벤처클럽 아이디어 경진대회](https://github.com/zxvxh/zxvxh/blob/main/projects/청년벤처클럽_아이디어_경진대회/README.md) | 스마트 좌석 관리 서비스 SeatFlow · 대표 | 최우수상 |
-| [2026 METAmobility 자율주행 자동차 경진대회](https://github.com/zxvxh/zxvxh/blob/main/projects/METAmobility_자율주행_자동차_경진대회/README.md) | 자이카 카메라·초음파 인식 및 실차 시험 | 장려상 |
-| [SK하이닉스 AI 해커톤](https://github.com/zxvxh/zxvxh/blob/main/projects/SK하이닉스_AI_해커톤/README.md) | 공개 MCP 도구 설정과 테스트 준비 | 2차 예선 통과 |
-| [전북현대모터스 Drive Up](https://github.com/zxvxh/zxvxh/blob/main/projects/전북현대모터스_Drive_Up/README.md) | 나이티 드링크 파우치 기획 · 팀장 | 우수상 |
-| [에너지신산업 AI 영상 제작 경진대회](https://github.com/zxvxh/zxvxh/blob/main/projects/에너지신산업_AI_영상_제작_경진대회/README.md) | 타 대학 학생들과 에너지신산업 주제 영상 제작 | 우수상 |
-| [AI 활용 가상 브랜드 디자인 해커톤](https://github.com/zxvxh/zxvxh/blob/main/projects/AI_활용_가상_브랜드_디자인_해커톤/README.md) | Wearable Physical AI Life 영상·포스터 기획 및 발표 | 장려상 |
+| [전북대학교 방산 AI 아이디어 경진대회](projects/전북대학교_방산_AI_아이디어_경진대회/README.md) | AI 재검증 Agent를 기획·제작한 팀장 | 최우수상 |
+| [E-SynC! 학부생연구프로그램 성과발표회](projects/E-SynC_학부생연구프로그램_성과발표회/README.md) | PMSM 전류제어 학부연구 프로젝트 · 팀장 | 최우수상 |
+| [제9회 청년벤처클럽 아이디어 경진대회](projects/청년벤처클럽_아이디어_경진대회/README.md) | 스마트 좌석 관리 서비스 SeatFlow · 대표 | 최우수상 |
+| [전북현대모터스 Drive Up](projects/전북현대모터스_Drive_Up/README.md) | 나이티 드링크 파우치 기획 · 팀장 | 우수상 |
+| [에너지신산업 AI 영상 제작 경진대회](projects/에너지신산업_AI_영상_제작_경진대회/README.md) | 타 대학 학생들과 에너지신산업 주제 영상 제작 | 우수상 |
+| [2026 METAmobility 자율주행 자동차 경진대회](projects/METAmobility_자율주행_자동차_경진대회/README.md) | 자이카 카메라·초음파 인식 및 실차 시험 | 장려상 |
+| [AI 활용 가상 브랜드 디자인 해커톤](projects/AI_활용_가상_브랜드_디자인_해커톤/README.md) | Wearable Physical AI Life 영상·포스터 기획 및 발표 | 장려상 |
+| [전북대학교 AI 활용 나만의 학습법 공모전](projects/전북대학교_AI_활용_나만의_학습법_공모전/README.md) | AI의 답변을 모터 전류 측정으로 검증한 학습 과정 | 입상 |
+
+## 창업·연구·해커톤
+
+| 프로그램 | 프로젝트와 역할 | 결과 |
+| --- | --- | --- |
+| 모두의 창업 일반트랙 | SeatFlow · 대표 | 1라운드 통과 · 활동자금 200만 원 확보 |
+| 대한전기학회 추계학술대회 | PMSM 전류제어 실험 결과 정리 | 포스터 제출 |
+| [SK하이닉스 AI 해커톤](projects/SK하이닉스_AI_해커톤/README.md) | 참여 | 2차 예선 통과 |
+
+## 대외활동
+
+| 기관·활동 | 내가 맡은 일 |
+| --- | --- |
+| 전북대학교 글로벌 스터디그룹 | 스터디그룹 팀장 |
+| 전북대학교 전공알리GO 전공알림단 · 2026.07.01–08.28 | 고등학생에게 전기공학 전공을 소개하고 진학 상담 진행 |
+| EBS 튜터링 | 학생 3명의 학습 지도 |
+| 학교밖청소년지원센터 | 학교 밖 청소년의 검정고시 학습 지도 |
+| 김제시청소년상담복지센터 | 진로·감정코칭 프로그램 진행 보조 |
+| 김제시다함께돌봄센터 | 센터 아동 학습 보조 |
+| 한국도로공사 전북본부 배움잇는 인턴십 | 교육봉사 장학생으로 인턴십 참여 |
+| [LG전자 하이엘지 토크콘서트](https://biz.korea.ac.kr/news/calendar_view.html?no=3880&sdate=2026-07-01) · 2026.07.21 | 상품기획 멘토 강연 참석 · CLOi 로봇 관람 |
