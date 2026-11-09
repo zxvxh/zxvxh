@@ -27,10 +27,10 @@
 
 ### 세부 국제어학연수 사진
 
-![세부 어학연수 수료식](images/ceremony.jpg)
+<a href="images/ceremony.jpg"><img src="images/ceremony.jpg" alt="세부 어학연수 수료식" width="300"></a>
 
-![연수 참가자들과 함께](images/students.jpg)
+<a href="images/students.jpg"><img src="images/students.jpg" alt="연수 참가자들과 함께" width="300"></a>
 
-![수료증](images/certificates.jpg)
+<a href="images/certificates.jpg"><img src="images/certificates.jpg" alt="수료증" width="230"></a>
 
 [전체 포트폴리오](../README.md)
