@@ -27,4 +27,24 @@ DC 링크 40 V, 스위칭 주파수 10 kHz에서 정렬과 구동을 나눠 측�
 | --- | --- |
 | <a href="assets/kiee-poster.jpg"><img src="assets/kiee-poster.jpg" alt="대한전기학회 PS2-50 모터 제어 연구 포스터 앞에서" width="280"></a> | <a href="assets/esync-award.jpg"><img src="assets/esync-award.jpg" alt="E-SynC! 학부연구 성과발표회 최우수상 수상 현장" width="230"></a> |
 
+## 성과발표회 발표와 연구자료
+
+<a href="assets/esync-poster-presentation.jpg"><img src="assets/esync-poster-presentation.jpg" alt="E-SynC! 성과발표회에서 모터 전류제어 포스터를 설명하는 김지호" width="380"></a>
+
+### 전체 제어 시스템
+
+![위치·전류 피드백 기반 PMSM 전류제어 구조](assets/system-overview.jpg)
+
+### 실험 환경과 측정 조건
+
+![모터·인버터·제어 보드와 계측 장비를 연결한 실험 구성](assets/experiment-setup.jpg)
+
+### 전류 응답과 실제 측정 파형
+
+![전류제어 모드의 d축·q축 전류 응답](assets/dq-current-response.jpg)
+
+![오실로스코프로 측정한 구동 중 3상 전류 파형](assets/three-phase-current.jpg)
+
+이미지 출처: 팀 학부연구 발표자료 「E-SynC PMSM 전류제어 2차 (2)(1)」의 PDF 5·8·14·16쪽. 전체 시스템, 실험 조건, d–q축 응답, 실제 3상 전류 측정 결과를 발췌했습니다.
+
 [전체 포트폴리오](../../README.md)

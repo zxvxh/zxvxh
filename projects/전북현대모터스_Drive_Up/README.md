@@ -8,6 +8,10 @@
 
 *발표자료에 담은 디자인 시안과 사용 예시입니다.*
 
+## 우수상 수상
+
+<a href="images/award-certificate.jpg"><img src="images/award-certificate.jpg" alt="2026년 8월 14일 전북현대모터스FC Drive Up 우수상 상장 · 김지호" width="360"></a>
+
 ## 팀 활동과 발표 현장
 
 팀 「전우」로 구단 현장을 방문하고, 나이티 드링크 파우치의 활용 방식과 구단·팬·지역사회에 기대되는 효과를 발표했습니다.
