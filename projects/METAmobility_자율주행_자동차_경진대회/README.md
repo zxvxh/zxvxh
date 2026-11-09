@@ -12,9 +12,9 @@
 
 ## 수상 및 현장 사진
 
-![장려상 수상 사진](assets/award.jpg)
+<a href="assets/award.jpg"><img src="assets/award.jpg" alt="장려상 수상 사진" width="300"></a>
 
-![대회 현장 안내](assets/event.jpg)
+<a href="assets/event.jpg"><img src="assets/event.jpg" alt="대회 현장 안내" width="300"></a>
 
 [전체 포트폴리오](../../README.md)
 
