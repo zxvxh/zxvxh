@@ -9,8 +9,8 @@ Motor Control · Robotics · Embedded Systems
 | 대회·프로그램 | 작품과 역할 | 결과 |
 | --- | --- | --- |
 | [전북대학교 방산 AI 아이디어 경진대회](projects/전북대학교_방산_AI_아이디어_경진대회/README.md) | AI 재검증 Agent를 기획·제작한 팀장 | 최우수상 |
-| [E-SynC! 학부생연구프로그램 성과발표회](projects/E-SynC_학부생연구프로그램_성과발표회/README.md) | PMSM 전류제어 학부연구 프로젝트 · 팀장 | 최우수상 |
-| [제9회 청년벤처클럽 아이디어 경진대회](projects/청년벤처클럽_아이디어_경진대회/README.md) | 스마트 좌석 관리 서비스 SeatFlow · 대표 | 최우수상 |
+| [E-SynC! 학부생연구프로그램 성과발표회](projects/E-SynC_학부생연구프로그램_성과발표회/README.md) | PMSM 전류제어 연구 · 팀장 및 성과 발표 | 최우수상 |
+| [제9회 청년벤처클럽 아이디어 경진대회](projects/청년벤처클럽_아이디어_경진대회/README.md) | 스마트 좌석 관리 서비스 [SeatFlow](projects/SeatFlow/README.md) · 대표 | 최우수상 |
 | [전북현대모터스 Drive Up](projects/전북현대모터스_Drive_Up/README.md) | 나이티 드링크 파우치 기획 · 팀장 | 우수상 |
 | [에너지신산업 AI 영상 제작 경진대회](projects/에너지신산업_AI_영상_제작_경진대회/README.md) | 타 대학 학생들과 에너지신산업 주제 영상 제작 | 우수상 |
 | [2026 METAmobility 자율주행 자동차 경진대회](projects/METAmobility_자율주행_자동차_경진대회/README.md) | 자이카 카메라·초음파 인식 및 실차 시험 | 장려상 |
@@ -21,8 +21,8 @@ Motor Control · Robotics · Embedded Systems
 
 | 프로그램 | 프로젝트와 역할 | 결과 |
 | --- | --- | --- |
-| 모두의 창업 일반트랙 | SeatFlow · 대표 | 1라운드 통과 · 활동자금 200만 원 확보 |
-| 대한전기학회 추계학술대회 | 포스터 발표자 · PMSM 전류제어 구현 및 모터 구동 시험 주도 | 3상 전류 파형 검증 · 학술대회 포스터 제출 |
+| 모두의 창업 일반트랙 | [SeatFlow 프로젝트 포트폴리오](projects/SeatFlow/README.md) · 대표 | 1라운드 통과 · 활동자금 200만 원 확보 |
+| 대한전기학회 추계학술대회 | 학부연구생 · PMSM 전류제어 구현 및 모터 구동 시험 주도 | 실측한 3상 전류 파형을 바탕으로 학술대회 논문 공동 작성 |
 | [SK하이닉스 AI 해커톤](projects/SK하이닉스_AI_해커톤/README.md) | 참여 | 2차 예선 통과 |
 
 ## 대외활동
