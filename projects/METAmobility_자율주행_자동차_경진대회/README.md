@@ -1,4 +1,6 @@
-# 2026 METAmobility 자율주행 자동차 경진대회 | 장려상
+# 2026 METAmobility 자율주행 자동차 경진대회
+
+**자이카 카메라·초음파 인식 및 실차 시험 · 장려상**
 
 **2026년 11월 5~6일 모항해나루 호텔에서 열린 대회에서 장려상을 받았습니다.**
 
@@ -15,3 +17,7 @@
 ![대회 현장 안내](assets/event.jpg)
 
 [전체 포트폴리오](../../README.md)
+
+## 대회 영상
+
+[직접 제작한 57초 현장 브이로그 보기](https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4)
