@@ -1,8 +1,8 @@
 # Jiho Kim Portfolio
 
-Jeonbuk National University · Electrical Engineering · Defense Industry Studies
+### Jeonbuk National University · Electrical Engineering · Defense Industry Studies
 
-Motor Control · Robotics · Embedded Systems
+### Motor Control · Robotics · Embedded Systems
 
 ## 대회 및 수상 프로젝트
 
