@@ -20,8 +20,21 @@
 LG전자 하이엘지 토크콘서트에 참여해 현직자와 만나 직무 이야기를 듣고, CLOi 로봇을 관람했습니다.
 
 <p>
-<a href="images/lg-participant.jpg"><img src="images/lg-participant.jpg" alt="LG전자 행사 참가 명찰" width="280"></a>
-<a href="images/lg-career-talk.jpg"><img src="images/lg-career-talk.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="280"></a>
+<a href="images/lg-participant.jpg"><img src="images/lg-participant.jpg" alt="LG전자 행사 참가 명찰" width="220"></a>
+<a href="images/lg-career-talk.jpg"><img src="images/lg-career-talk.jpg" alt="LG전자 현직자 직무 교류 현장 기록" width="220"></a>
+</p>
+
+<a href="images/lg-event-badge.jpg"><img src="images/lg-event-badge.jpg" alt="LG전자 하이엘지 토크콘서트 참가 명찰과 기념품" width="180"></a>
+
+## 전공알리GO 전공알림단
+
+**전북대학교 · 2026.07.01–08.28**
+
+전북 지역 고등학생에게 전기공학 전공을 소개하고 진학 상담을 진행했습니다.
+
+<p>
+<a href="images/major-introduction-1.jpg"><img src="images/major-introduction-1.jpg" alt="교실에서 고등학생에게 전기공학 전공을 소개하는 모습" width="260"></a>
+<a href="images/major-introduction-2.jpg"><img src="images/major-introduction-2.jpg" alt="전공알리GO 전기공학 전공 소개 활동 현장" width="260"></a>
 </p>
 
 ## 대학창업페스티벌
