@@ -10,6 +10,16 @@
 - 첫 회차 S자 구간에서 속도가 빠르면 AR 표지를 놓쳤습니다. 해당 구간의 속도 명령을 12로 낮추고, 마지막 표지를 지난 뒤 급우회전에서 차선을 다시 잡는 문제를 추적했습니다.
 - AI 주행에서는 노란 횡단보도 주변의 장애물을 기준으로 오른쪽 회피, 직진, 차선 복귀 순서를 설계했습니다. 현장 시험에서 드러난 차선 이탈과 장애물 회피 후 차선 재인식이 주요 개선 과제였습니다.
 
+## 대회 영상 · 57초 현장 브이로그
+
+영상에서 뽑은 대표 장면입니다. 사진을 누르면 원본 영상을 열 수 있습니다.
+
+| 라바콘 구간 센서 테스트 · 00:13 | 현장 코드 수정 · 00:23 | 트랙 주행 · 00:43 |
+| --- | --- | --- |
+| <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/vlog-preview-1.jpg" alt="라바콘 사이를 주행하는 자이카 · 영상 13초" width="180"></a> | <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/vlog-preview-2.jpg" alt="노트북으로 코드를 수정하는 현장 · 영상 23초" width="180"></a> | <a href="https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4"><img src="assets/vlog-preview-3.jpg" alt="트랙 위에서 주행 중인 자이카 · 영상 43초" width="180"></a> |
+
+[전체 영상 보기](https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4) · [영상 파일 다운로드](assets/competition-vlog.mp4?raw=true)
+
 ## 수상 및 현장 사진
 
 <a href="assets/award.jpg"><img src="assets/award.jpg" alt="장려상 수상 사진" width="300"></a>
@@ -17,7 +27,3 @@
 <a href="assets/event.jpg"><img src="assets/event.jpg" alt="대회 현장 안내" width="300"></a>
 
 [전체 포트폴리오](../../README.md)
-
-## 대회 영상
-
-[직접 제작한 57초 현장 브이로그 보기](https://raw.githubusercontent.com/zxvxh/zxvxh/main/projects/METAmobility_자율주행_자동차_경진대회/assets/competition-vlog.mp4)
