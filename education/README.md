@@ -53,13 +53,7 @@ SW·AI 창업 교육 프로그램에 참여했습니다. 현장 안내에 표기
 | | |
 | --- | --- |
 | <a href="images/ceremony.jpg"><img src="images/thumbnails/ceremony-cd7c17.jpg" alt="세부 어학연수 수료식" width="260" height="173"></a> | <a href="images/students.jpg"><img src="images/thumbnails/students-e3a911.jpg" alt="연수 참가자들과 함께" width="260" height="173"></a> |
-| <a href="images/certificates.jpg"><img src="images/thumbnails/certificates-048e7f.jpg" alt="수료증" width="260" height="173"></a> |  |
+| <a href="images/certificates.jpg"><img src="images/thumbnails/certificates-048e7f.jpg" alt="수료증" width="260" height="173"></a> | <a href="images/cebu-class.jpg"><img src="images/thumbnails/cebu-class-9289a4.jpg" alt="영어 수업 참가자들과 함께" width="260" height="173"></a> |
 
-### 세부 어학연수 · 수업과 현지 생활
-
-| | |
-| --- | --- |
-| <a href="images/cebu-class.jpg"><img src="images/thumbnails/cebu-class-9289a4.jpg" alt="영어 수업 참가자들과 함께" width="260" height="173"></a> | <a href="images/cebu-ferry.jpg"><img src="images/thumbnails/cebu-ferry-53f387.jpg" alt="연수 참가자들과 현지 이동" width="260" height="173"></a> |
-| <a href="images/cebu-campus.jpg"><img src="images/thumbnails/cebu-campus-ac9238.jpg" alt="연수 캠퍼스 풍경" width="260" height="173"></a> | <a href="images/cebu-evening.jpg"><img src="images/thumbnails/cebu-evening-2e13af.jpg" alt="세부 현지 생활" width="260" height="173"></a> |
 
 [전체 포트폴리오](../README.md)
