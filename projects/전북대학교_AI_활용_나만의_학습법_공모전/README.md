@@ -13,4 +13,9 @@ PMSM 구동 실험에서 모르는 점을 AI에 질문하고, 답변으로 얻�
 
 <a href="assets/award-certificate.jpg"><img src="assets/thumbnails/award-certificate-9cdd4a.jpg" alt="2026학년도 AI 활용 나만의 학습법 공모전 입상 증서 · 김지호" width="260" height="173"></a>
 
+## 수상 기념 사진
+
+<a href="assets/award-campus-open.jpg"><img src="assets/thumbnails/award-campus-open.jpg" alt="교내에서 촬영한 AI 활용 나만의 학습법 공모전 입상 증서" width="260" height="173"></a>
+<a href="assets/award-campus-cover.jpg"><img src="assets/thumbnails/award-campus-cover.jpg" alt="전북대학교 입상 증서 표지 기념 사진" width="260" height="173"></a>
+
 [관련 PMSM 학부연구](../E-SynC_학부생연구프로그램_성과발표회/README.md) · [전체 포트폴리오](../../README.md)
