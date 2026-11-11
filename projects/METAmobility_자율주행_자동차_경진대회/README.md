@@ -40,6 +40,10 @@
 
 [장려상 상장 PDF 보기](assets/award-certificate.pdf)
 
+| 상장 실물 | 상장 표지 |
+| --- | --- |
+| <a href="assets/award-campus-open.jpg"><img src="assets/award-campus-open.jpg" alt="교내에서 촬영한 METAmobility 장려상 상장 실물" width="260"></a> | <a href="assets/award-campus-cover.jpg"><img src="assets/award-campus-cover.jpg" alt="전북대학교 SW중심대학사업단 상장 표지" width="260"></a> |
+
 | | |
 | --- | --- |
 | <a href="assets/award.jpg"><img src="assets/thumbnails/award-c148c7.jpg" alt="장려상 수상 사진" width="260" height="173"></a> | <a href="assets/event.jpg"><img src="assets/thumbnails/event-93e460.jpg" alt="대회 현장 안내" width="260" height="173"></a> |
