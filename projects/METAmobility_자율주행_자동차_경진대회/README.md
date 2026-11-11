@@ -36,6 +36,8 @@
 
 **장려상 · 전북대학교 드라이브쓰루 팀 · 2026년 11월 6일**
 
+<a href="assets/award-certificate.pdf"><img src="assets/award-certificate.jpg" alt="2026 METAmobility 자율주행 자동차 경진대회 장려상 상장" width="260"></a>
+
 [장려상 상장 PDF 보기](assets/award-certificate.pdf)
 
 | | |
