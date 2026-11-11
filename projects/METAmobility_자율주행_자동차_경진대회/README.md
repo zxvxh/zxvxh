@@ -34,6 +34,10 @@
 
 ## 수상 및 현장 사진
 
+**장려상 · 전북대학교 드라이브쓰루 팀 · 2026년 11월 6일**
+
+[장려상 상장 PDF 보기](assets/award-certificate.pdf)
+
 | | |
 | --- | --- |
 | <a href="assets/award.jpg"><img src="assets/thumbnails/award-c148c7.jpg" alt="장려상 수상 사진" width="260" height="173"></a> | <a href="assets/event.jpg"><img src="assets/thumbnails/event-93e460.jpg" alt="대회 현장 안내" width="260" height="173"></a> |
