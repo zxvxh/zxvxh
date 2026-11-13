@@ -51,7 +51,7 @@
 | --- | --- |
 | 방산개방형아키텍처 · **수강 중** | ROS 2 기반 자율주행 시스템 구조 |
 | 반도체 공정·설비 직무 교육 · **수강 중** | 반도체 공정과 설비 직무 |
-| [2025학년도 동계 JBNU 우수학생 글로벌Up 프로그램 · 세부 사진](education/README.md#세부-국제어학연수-사진) | 필리핀 세부 어학연수 · Lapulapu Cebu International College · 2026.02.02–02.27 (4주) |
+| [2025학년도 동계 JBNU 우수학생 글로벌Up 프로그램 · 수료증·성적표](education/README.md#수료증성적표) | 필리핀 세부 어학연수 · Lapulapu-Cebu International College · 2026.02.02–02.27 (4주) 수료 |
 | AI 활용 영상 제작 전문 교육 | 에너지신산업을 주제로 팀 영상 제작 |
 | [2026년 학생·기업 연계 SW·AI 창업캠프](education/README.md#swai-창업캠프) | SW·AI 창업캠프 참여 |
 | 바이브 코딩 교육 | 바이브 코딩 |
