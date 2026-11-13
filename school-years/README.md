@@ -2,7 +2,7 @@
 
 [포트폴리오 홈](../README.md)
 
-중·고등학교에서 받은 장학증서, 표창장, 상장과 졸업장을 모았습니다. 사진을 누르면 증서를 크게 볼 수 있습니다.
+중·고등학교에서 받은 장학증서, 격려금 증서와 표창장을 모았습니다. 사진을 누르면 증서를 크게 볼 수 있습니다.
 
 ## 장학증서·격려금 증서
 
@@ -19,15 +19,3 @@
 | --- | --- | --- |
 | **한국중등교장협의회 표창장** | 2021.02.05<br>우수한 학업 성적과 모범적인 학교생활로 표창 | <a href="assets/2021-principals-association-commendation.jpg"><img src="assets/2021-principals-association-commendation.jpg" alt="한국중등교장협의회 표창장 사진" width="100"></a> |
 | **김종회 국회의원 표창장** | 2018.02.08<br>성실한 학업 태도와 모범적인 학교생활로 졸업식에서 표창 | <a href="assets/2018-national-assembly-member-commendation.jpg"><img src="assets/2018-national-assembly-member-commendation.jpg" alt="김종회 국회의원 표창장 사진" width="100"></a> |
-
-## 상장
-
-| 기록 | 수여일 및 내용 | 증서 사진 |
-| --- | --- | --- |
-| **3개년 개근상** | 2021.02.05<br>고등학교 3년 개근 | <a href="assets/2021-perfect-attendance.jpg"><img src="assets/2021-perfect-attendance.jpg" alt="3개년 개근상 사진" width="100"></a> |
-
-## 졸업장
-
-| 기록 | 수여일 및 내용 | 증서 사진 |
-| --- | --- | --- |
-| **졸업장** | 2021.02.05<br>고등학교 3개년 전 과정 수료 | <a href="assets/2021-high-school-diploma.jpg"><img src="assets/2021-high-school-diploma.jpg" alt="졸업장 사진" width="100"></a> |
