@@ -61,6 +61,10 @@ LG전자 PI·AX 기술 관련 강연에서는 제품 판매 사이트 모니터�
 | <a href="images/major-introduction-1.jpg"><img src="images/thumbnails/major-introduction-1-1bedcb.jpg" alt="교실에서 고등학생에게 전기공학 전공을 소개하는 모습" width="260" height="173"></a> | <a href="images/major-introduction-2.jpg"><img src="images/thumbnails/major-introduction-2-e18260.jpg" alt="전공알리GO 전기공학 전공 소개 활동 현장" width="260" height="173"></a> |
 | <a href="images/major-auditorium.jpg"><img src="images/thumbnails/major-auditorium-1f9cd4.jpg" alt="강당에서 고등학생에게 전기공학 전공을 소개하는 현장" width="260" height="173"></a> |  |
 
+<a href="images/major-activity-certificate.pdf"><img src="images/major-activity-certificate.jpg" alt="2026년 전공알리GO 전공알림단 활동 확인서" width="260"></a>
+
+[활동 확인서 PDF 보기](images/major-activity-certificate.pdf)
+
 ## EBS 튜터링
 
 **고1 영어 멘토링**
