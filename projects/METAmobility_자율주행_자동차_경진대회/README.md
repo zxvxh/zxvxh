@@ -21,6 +21,16 @@
 | <a href="assets/development-setup.jpg"><img src="assets/thumbnails/development-setup-74f2a6.jpg" alt="트랙 옆 노트북과 개발 환경" width="260" height="173"></a> | <a href="assets/vehicle-code-test.jpg"><img src="assets/thumbnails/vehicle-code-test-adf070.jpg" alt="자이카를 연결하고 현장에서 인식 코드를 수정하는 환경" width="260" height="173"></a> |
 | <a href="assets/traffic-light-detection.jpg"><img src="assets/thumbnails/traffic-light-detection-331c5d.jpg" alt="천장 조명이 있는 실내에서 신호등 세 원을 검출하고 GREEN을 표시한 화면" width="260" height="173"></a> |  |
 
+## E²FESTA E²SODE 1등
+
+**2026 공학페스티벌 E²FESTA · E²SODE · 1등 · 2026.11.20 수상자 발표**
+
+**「자율주행대회 처음 나간 공대생 브이로그」가 E²SODE 1등으로 선정되었습니다.** 자율주행 경진대회에 처음 참가한 공대생의 경험을 현장 브이로그로 담았습니다. 자이카가 트랙을 달리는 장면과 노트북으로 코드를 수정하며 주행을 준비하는 모습을 영상으로 기록했습니다.
+
+<a href="assets/e2sode-first-place-announcement.jpg"><img src="assets/e2sode-first-place-announcement.jpg" alt="2026 E²FESTA E²SODE 수상자 발표 · 자율주행대회 처음 나간 공대생 브이로그 1등" width="94" height="173"></a>
+
+수상자 발표 이미지를 누르면 크게 볼 수 있습니다.
+
 ## 대회 영상 · 57초 현장 브이로그
 
 영상에서 뽑은 대표 장면입니다. 사진을 누르면 원본 영상을 열 수 있습니다.

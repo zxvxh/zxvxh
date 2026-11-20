@@ -2,6 +2,7 @@
 
 | 대회 | 결과 | 출품 프로젝트 |
 | --- | --- | --- |
+| 2026 공학페스티벌 E²FESTA · E²SODE | **1등** | [자율주행대회 처음 나간 공대생 브이로그](../projects/METAmobility_자율주행_자동차_경진대회/README.md#e²festa-e²sode-1등) |
 | 방산 AI 아이디어 경진대회 | **최우수상** | [AI 재검증 Agent](../projects/전북대학교_방산_AI_아이디어_경진대회/README.md) |
 | 2026 E-SynC! 학부생연구프로그램 성과발표회 | **최우수상** | [PMSM 전류제어 연구](../projects/E-SynC_학부생연구프로그램_성과발표회/README.md) |
 | 제9회 청년벤처클럽 아이디어 경진대회 | **최우수상** | [SeatFlow](../projects/청년벤처클럽_아이디어_경진대회/README.md) |

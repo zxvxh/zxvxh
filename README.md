@@ -12,6 +12,7 @@
 
 | 대회·프로그램 | 작품과 역할 | 결과 |
 | --- | --- | --- |
+| [2026 공학페스티벌 E²FESTA · E²SODE](projects/METAmobility_자율주행_자동차_경진대회/README.md#e²festa-e²sode-1등) | 「자율주행대회 처음 나간 공대생 브이로그」 · 자율주행 대회 현장 브이로그 | **1등** |
 | [전북대학교 방산 AI 아이디어 경진대회](projects/전북대학교_방산_AI_아이디어_경진대회/README.md) | AI 재검증 Agent를 기획·제작한 팀장 | 최우수상 |
 | [E-SynC! 학부생연구프로그램 성과발표회](projects/E-SynC_학부생연구프로그램_성과발표회/README.md) | PMSM 전류제어 연구 · 팀장 및 성과 발표 | 최우수상 |
 | [제9회 청년벤처클럽 아이디어 경진대회](projects/청년벤처클럽_아이디어_경진대회/README.md) | 스마트 좌석 관리 서비스 [SeatFlow 웹사이트](https://seatflow.site.aiapp.help/) · 대표 | 최우수상 |
