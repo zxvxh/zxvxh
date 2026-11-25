@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.DS_Store
+dist/data/waveforms_25.csv
+dist/data/random_10_budget_exact.csv
+dist/data/comparison.png
