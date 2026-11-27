@@ -30,7 +30,7 @@
 | [모두의 창업 대학리그](projects/SeatFlow/README.md#모두의-창업-대학리그--예선-통과-후-교육-참여) | 예선 통과 후 Build up Camp 교육 참여 · 2026.09.03–04 | 대학리그 예선 통과 |
 | [대한전기학회 추계학술대회 논문 (PDF)](projects/E-SynC_학부생연구프로그램_성과발표회/assets/kiee-2026-motor-control.pdf) | 학부연구생 · PMSM 전류제어 구현 및 모터 구동 시험 주도 | 실측한 3상 전류 파형을 바탕으로 학술대회 논문 공동 작성 |
 | [SK하이닉스 AI 해커톤](projects/SK하이닉스_AI_해커톤/README.md) | 참여 | 2차 예선 통과 |
-| [반도체 공정설비 부트캠프 · 압력 제어](projects/etch-pressure-lab/README.md) | PI 제어 경험을 챔버 압력에 적용 · 가상 모델 및 AI 다음 실험 추천 · [웹 실험실](https://jiho-etch-pressure-lab.kjiho1023.chatgpt.site/) | 25조건 가상 실험 · 9회차 E22 발견 |
+| [부트캠프 과제 · 식각 챔버 압력 제어](projects/etch-pressure-lab/README.md) | PI 제어 경험을 챔버 압력에 적용 · 가상 모델 및 AI 다음 실험 추천 · [웹 실험실](https://jiho-etch-pressure-lab.kjiho1023.chatgpt.site/) | 25조건 가상 실험 · 9회차 E22 발견 |
 
 ## 대외활동
 
@@ -52,7 +52,7 @@
 | 프로그램 | 교육 내용 |
 | --- | --- |
 | 방산개방형아키텍처 · **수강 중** | ROS 2 기반 자율주행 시스템 구조 |
-| [반도체 공정·설비 직무 부트캠프](projects/etch-pressure-lab/README.md) · **이수 완료** | AI 기반 압력 제어 튜닝 가상 프로젝트 · [웹 실험실](https://jiho-etch-pressure-lab.kjiho1023.chatgpt.site/) |
+| [반도체 공정·설비 직무 부트캠프](projects/etch-pressure-lab/README.md) · **이수 완료** | 개인 과제 · 식각 챔버 압력 제어 가상 실험 · [웹 실험실](https://jiho-etch-pressure-lab.kjiho1023.chatgpt.site/) |
 | [2025학년도 동계 JBNU 우수학생 글로벌Up 프로그램 · 수료증·성적표](education/README.md#수료증성적표) | 필리핀 세부 어학연수 · Lapulapu-Cebu International College · 2026.02.02–02.27 (4주) 수료 |
 | AI 활용 영상 제작 전문 교육 | 에너지신산업을 주제로 팀 영상 제작 |
 | [2026년 학생·기업 연계 SW·AI 창업캠프](education/README.md#swai-창업캠프) | SW·AI 창업캠프 참여 |
