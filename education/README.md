@@ -14,7 +14,7 @@
 
 | 프로그램 | 이수·참여 내용 |
 | --- | --- |
-| [반도체 공정·설비 직무 부트캠프](../projects/etch-pressure-lab/README.md) | 이수 완료 · 식각 장비 챔버 압력 제어 가상 실험 |
+| [반도체 공정·설비 직무 부트캠프](../projects/etch-pressure-lab/README.md) | 이수 완료 · 개인 과제로 식각 챔버 압력 제어 웹 실험실 구현 |
 | [2025학년도 동계 JBNU 우수학생 글로벌Up 프로그램](#세부-국제어학연수) | 필리핀 세부 어학연수 · Lapulapu-Cebu International College · 2026.02.02–02.27 (4주) 수료 |
 | 전북대학교 글로벌 스터디그룹 | [대외활동 기록](../activities/README.md) |
 | 2026년 학생·기업 연계 SW·AI 창업캠프 | SW·AI 창업캠프 참여 |
