@@ -104,9 +104,9 @@ LG전자 PI·AX 기술 관련 강연에서는 제품 판매 사이트 모니터�
 
 이 경험을 통해 사업계획서를 볼 때 **문제의 크기뿐 아니라 고객이 사용할 이유, 비용을 지불할 주체, 실제 검증 근거와 운영 부담까지 확인해야 한다는 판단 기준**을 정리했습니다. 제 창업 아이디어를 점검할 때도 먼저 확인해야 할 질문들입니다.
 
-<a href="images/startup-festival-cropped.jpg"><img src="images/thumbnails/startup-festival-cropped-8e2c1e.jpg" alt="2026 대학창업페스티벌 현장 참가 사진 · 김지호" width="260" height="173"></a>
-
-<a href="images/startup-festival-badge.jpg"><img src="images/startup-festival-badge.jpg" alt="2026 대학창업페스티벌 · 전북대학교 전기공학과 참가 명찰 · 김지호" width="150"></a>
+| | |
+| --- | --- |
+| <a href="images/startup-festival-cropped.jpg"><img src="images/thumbnails/startup-festival-cropped-8e2c1e.jpg" alt="2026 대학창업페스티벌 현장 참가 사진 · 김지호" width="260" height="173"></a> | <a href="images/startup-festival-badge.jpg"><img src="images/thumbnails/startup-festival-badge-crop.jpg" alt="2026 대학창업페스티벌 · 전북대학교 전기공학과 참가 명찰 · 김지호" width="260" height="173"></a> |
 
 2026 대학창업페스티벌 · 전북대학교 전기공학과 참가 명찰
 

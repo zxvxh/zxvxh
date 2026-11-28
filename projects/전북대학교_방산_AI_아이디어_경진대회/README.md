@@ -15,7 +15,6 @@
 | | |
 | --- | --- |
 | <a href="assets/presentation.jpg"><img src="assets/thumbnails/presentation-30b8d5.jpg" alt="같은 사진을 전차와 민간 차량으로 다르게 판정한 사례 발표" width="260" height="173"></a> | <a href="assets/team-award.jpg"><img src="assets/thumbnails/team-award-ddc0d4.jpg" alt="최우수상을 받은 팀원들" width="260" height="173"></a> |
-
-<a href="assets/defense-ai-badge.jpg"><img src="assets/defense-ai-badge.jpg" alt="2026 전북대학교 방산 AI 아이디어 경진대회 · 전선을 간다 · 10월 30일 전북대학교 학생회관 민주강당 참가 명찰 · 김지호" width="150"></a>
+| <a href="assets/defense-ai-badge.jpg"><img src="assets/thumbnails/defense-ai-badge-crop.jpg" alt="2026 전북대학교 방산 AI 아이디어 경진대회 · 전선을 간다 · 10월 30일 전북대학교 학생회관 민주강당 참가 명찰 · 김지호" width="260" height="173"></a> |  |
 
 2026 전북대학교 방산 AI 아이디어 경진대회 · 전선을 간다 · 10월 30일 전북대학교 학생회관 민주강당 참가 명찰

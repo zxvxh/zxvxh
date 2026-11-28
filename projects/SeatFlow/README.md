@@ -25,9 +25,8 @@ SeatFlow는 도서관이나 스터디카페에서 빈자리를 휴대폰으로 �
 
 | | |
 | --- | --- |
-| <a href="assets/modoo-meetup.jpg"><img src="assets/thumbnails/modoo-meetup-ecd3fe.jpg" alt="모두의 창업 Meet-up 캠프에서 SeatFlow 브랜드를 구체화하는 작업" width="260" height="173"></a> | <a href="assets/modoo-launch.jpg"><img src="assets/thumbnails/modoo-launch-aa1cba.jpg" alt="모두의 창업 2차 출범식 참가 현장" width="260" height="173"></a> |
-
-<a href="assets/modoo-meetup-badge.jpg"><img src="assets/modoo-meetup-badge.jpg" alt="2026 모두의 창업(2차) BOOST-UP ROUND 1 · Modoo Meet-up 캠프 참가 명찰 · 김지호" width="150"></a>
+| <a href="assets/modoo-meetup.jpg"><img src="assets/thumbnails/modoo-meetup-crop.jpg" alt="모두의 창업 Meet-up 캠프에서 SeatFlow 브랜드를 구체화하는 작업" width="260" height="173"></a> | <a href="assets/modoo-launch.jpg"><img src="assets/thumbnails/modoo-launch-crop.jpg" alt="모두의 창업 2차 출범식 참가 현장" width="260" height="173"></a> |
+| <a href="assets/modoo-meetup-badge.jpg"><img src="assets/thumbnails/modoo-meetup-badge-crop.jpg" alt="2026 모두의 창업(2차) BOOST-UP ROUND 1 · Modoo Meet-up 캠프 참가 명찰 · 김지호" width="260" height="173"></a> |  |
 
 2026 모두의 창업(2차) BOOST-UP ROUND 1 · Modoo Meet-up 캠프 참가 명찰
 
