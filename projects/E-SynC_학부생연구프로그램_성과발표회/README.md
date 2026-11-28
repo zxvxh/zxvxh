@@ -67,6 +67,10 @@ DC 링크 40 V, 스위칭 주파수 10 kHz에서 정렬과 구동을 나눠 측�
 | --- | --- |
 | <a href="assets/kiee-poster.jpg"><img src="assets/thumbnails/kiee-poster-62e492.jpg" alt="대한전기학회 PS2-50 모터 제어 연구 포스터 앞에서" width="260" height="173"></a> | <a href="assets/esync-award.jpg"><img src="assets/thumbnails/esync-award-1c27d7.jpg" alt="E-SynC! 학부연구 성과발표회 최우수상 수상 현장" width="260" height="173"></a> |
 
+<a href="assets/kiee-autumn-badge.jpg"><img src="assets/kiee-autumn-badge.jpg" alt="대한전기학회 전기기기 및 에너지변환시스템부문회 2026년 정기총회 및 추계학술대회 참가 명찰 · 김지호" width="150"></a>
+
+대한전기학회 전기기기 및 에너지변환시스템부문회 2026년 정기총회 및 추계학술대회 참가 명찰
+
 ## 성과발표회 발표와 연구자료
 
 <a href="assets/esync-poster-presentation.jpg"><img src="assets/thumbnails/esync-poster-presentation-c2fc3c.jpg" alt="E-SynC! 성과발표회에서 모터 전류제어 포스터를 설명하는 김지호" width="260" height="173"></a>

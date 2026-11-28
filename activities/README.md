@@ -106,4 +106,8 @@ LG전자 PI·AX 기술 관련 강연에서는 제품 판매 사이트 모니터�
 
 <a href="images/startup-festival-cropped.jpg"><img src="images/thumbnails/startup-festival-cropped-8e2c1e.jpg" alt="2026 대학창업페스티벌 현장 참가 사진 · 김지호" width="260" height="173"></a>
 
+<a href="images/startup-festival-badge.jpg"><img src="images/startup-festival-badge.jpg" alt="2026 대학창업페스티벌 · 전북대학교 전기공학과 참가 명찰 · 김지호" width="150"></a>
+
+2026 대학창업페스티벌 · 전북대학교 전기공학과 참가 명찰
+
 [전체 포트폴리오](../README.md)
